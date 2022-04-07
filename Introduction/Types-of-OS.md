@@ -18,7 +18,7 @@ It is Non-Premptive.
  To Maximise the process in RAM. It is Non-Premptive as well. Main Idea is its Atomic Nature in executing a single process completely
  (unless prompted by the process to halt). Idea is to reduce Idle Time.
  
- **Multitasking Operating Systems / Time Sharing**
+ **Multitasking Operating Systems / Time Sharing Operating System**
  
  Preemptive OS. Each Process gets fixed alloted executing Time.
  Response Time is reduce significantly. Idleness is definately reduced.
