@@ -15,6 +15,7 @@ It is Non-Premptive.
   
 **MultiProgrammed Operating Systems**
 
- To Maximise the process in RAM. It is Premptive as well.
+ To Maximise the process in RAM. It is Non-Premptive as well. Main Idea is its Atomic Nature in executing a single process completely
+ (unless prompted by the process to halt)
  
 
