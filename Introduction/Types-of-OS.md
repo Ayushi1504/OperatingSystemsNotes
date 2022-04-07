@@ -3,9 +3,9 @@
 - MultiProgrammed OS
 - MultiTasking OS
 - Real Time OS
-- Distributed
-- Clustered
-- Embedded
+- Distributed OS
+- Clustered OS
+- Embedded OS
 
 **Batch Operating Systems**
 
