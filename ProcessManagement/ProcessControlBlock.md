@@ -1,3 +1,5 @@
+**Process Control Block**
+
 The Attributes of the process are used by the Operating System to create the process control block (PCB) for each of them. This is also called context of the process. Attributes which are stored in the PCB are described below.
 
 1. Process ID
@@ -21,4 +23,4 @@ During the Execution, Every process uses some files which need to be present in 
 7. List of open devices
 OS also maintain the list of all open devices which are used during the execution of the process.
 
-
+![alt text](https://static.javatpoint.com/operating-system/images/os-attributes-of-a-process.png)
