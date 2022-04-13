@@ -20,3 +20,5 @@ During the Execution, Every process uses some files which need to be present in 
 
 7. List of open devices
 OS also maintain the list of all open devices which are used during the execution of the process.
+
+
